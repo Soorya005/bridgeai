@@ -1,7 +1,4 @@
-# BridgeAI
-
-BridgeAI is a hybrid knowledge assistant project with two services:
-
+#
 1. **LLaMA Service** – A local LLaMA model that responds to queries.  
 2. **MCP Gateway** – A FastAPI/Flask API that forwards queries to LLaMA and returns responses.
 
